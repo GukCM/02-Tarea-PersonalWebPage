@@ -1,0 +1,20 @@
+.container__main {
+    border-radius: 10px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    width: 1000px;
+    margin: 0 auto; /* Add this line to center the element */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add box shadow with black color */
+    display: block;
+    margin-top: 50px;
+}
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
